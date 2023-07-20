@@ -15,6 +15,6 @@
 | SQL        | Angular.js     |
 | C          | Next.js        |
 
-[![Linkedin](https://img.shields.io/badge/oscartbeaumont-blue?style=for-the-badge&logo=linkedin&logoColor=whitMadhaviMeegahapola&colorB=0077b5)](https://www.linkedin.com/in/madhavi-m-014b79b2/)
+[![Linkedin](https://img.shields.io/badge/MadhaviMeegahapola-blue?style=for-the-badge&logo=linkedin&logoColor=whitMadhaviMeegahapola&colorB=0077b5)](https://www.linkedin.com/in/madhavi-m-014b79b2/)
 
 </div>

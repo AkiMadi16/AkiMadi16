@@ -11,14 +11,13 @@
 
 🔭 I’m currently working on building a SPA using React.js, Firebase 
 
-🌱 I’m currently learning JavaScript, TypeScript
-
-👯 I’m looking to collaborate on ...
-
+🌱 I’m currently learning JavaScript and TypeScript
 
 😎 Fun fact: I love music 
 
 🎮 My favourite computer games are Hearthstone and cut the rope.
+
+🌟 As a dev I like this comment  @AkiMadi16 :+1: This PR looks great - it's ready to merge! :shipit:
 
 | Languages  | Web Frameworks |
 | ---------- | -------------- |

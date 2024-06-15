@@ -9,22 +9,28 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-🔭 I’m currently working on building a SPA using React.js, Firebase 
-
-🌱 I’m currently learning JavaScript and TypeScript
-
-😎 Fun fact: I love music 
-
-🎮 My favourite computer games are Hearthstone and cut the rope.
+```
+👩🏻‍💻 Coder on GitHub
+📈 Explorer on Data
+👩🏽‍💼 Job Seeker on Linkedin
+🎧 Music Lover on Spotify
+🪭 DIY Crafter on Pinterest
+🧩 Puzzle Enthusiast on wordBrain
+⛰️ History Buff on Wikipedia
+👩🏽‍🍳 Chef on Instagram
+🌲 Nature Lover on AllTrails
+```
 
 🌟 As a dev I like this comment  @AkiMadi16 :+1: This PR looks great - it's ready to merge! :shipit:
 
-| Languages  | Web Frameworks |
-| ---------- | -------------- |
-| Javascript | Node.js with Express.js     |
-| Ruby       | Ruby-on-Rails  |
-| SQL        | Angular.js     |
-| C          |Next.js        |
+| Languages  | Web Frameworks |    Tools    |
+| ---------- | -------------- |  ---------- |
+| Javascript | Node.js        |    Git      |
+| Python     |  React.js      |   VSCode    |
+| SQL        | Angular.js     |             |
+| CSS        |                |             | 
+| HTML       |                |             | 
+| C          |                |             | 
 
 [![Linkedin](https://img.shields.io/badge/MadhaviMeegahapola-blue?style=for-the-badge&logo=linkedin&logoColor=whiteMadhaviMeegahapola&colorB=00757b)][particles]
 

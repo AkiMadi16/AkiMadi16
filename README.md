@@ -10,8 +10,8 @@
 </picture>
 
 ```
-👩🏻‍💻 Coder on GitHub
-📈 Explorer on Data
+👩🏻‍💻Coder on GitHub
+📈Explorer on Data
 👩🏽‍💼 Job Seeker on Linkedin
 🎧 Music Lover on Spotify
 🪭 DIY Crafter on Pinterest
